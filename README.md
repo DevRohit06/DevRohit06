@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Kushwaha</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrohit06&label=Profile%20views&color=0e75b6&style=flat" alt="devrohit06" /> </p>  
-  
+
 - 🔭 I’m currently working on **GameLib**  
   
 - 🌱 I’m currently learning **Next.js**  
