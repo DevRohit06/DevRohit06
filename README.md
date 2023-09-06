@@ -11,8 +11,11 @@
 ###
 
 ###
-
-<img align="right" height="150" src="https://i.ibb.co/3s6wzHv/1675459090047-1.jpg"  />
+<style>
+</style>
+<div align="right">
+<img align="right" height="150" width="150" src="https://i.ibb.co/3s6wzHv/1675459090047-1.jpg"  />
+</div>
 
 ###
 
@@ -72,9 +75,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <div align="left">
   <a href="https://www.instagram.com/rohitk.06" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="30" alt="instagram logo"  />
@@ -89,6 +89,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="30" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+
 
 ###
 
