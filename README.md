@@ -11,8 +11,7 @@
 ###
 
 ###
-<style>
-</style>
+
 <div align="right">
 <img align="right" height="150" width="150" src="https://i.ibb.co/3s6wzHv/1675459090047-1.jpg"  />
 </div>
