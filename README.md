@@ -1,19 +1,10 @@
 
-<h2 align="left">Hi 👋! My name is Rohit Kushwaha and I'm a Self tought Web Developer </h2>
+<h1 align="left">Hi 👋, I'm Rohit Kushwaha</h1>
 
-###
+<h3>A passionate frontend developer from India</h3>
 
 
-###
-
-###
-
-<div align="right">
-<img align="right" height="150" width="150" src="https://i.ibb.co/3s6wzHv/1675459090047-1.jpg"  />
-</div>
-
-###
-
+### Skills
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -41,6 +32,7 @@
 </div>
 
 ###
+### Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -70,6 +62,7 @@
 </div>
 
 ###
+### Connect with me  on
 <div align="left">
   <a href="https://www.instagram.com/rohitk.06" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="30" alt="instagram logo"  />
@@ -97,5 +90,7 @@
 
 ###
 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zcqs1v7pjdvrovtew0rqklkz8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zcqs1v7pjdvrovtew0rqklkz8&redirect=true)
+
 ###
