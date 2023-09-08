@@ -65,16 +65,13 @@
 ### Connect with me  on
 <div align="left">
   <a href="https://www.instagram.com/rohitk.06" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="30" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rohit-kushwaha-339978209/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/rohitk06" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="48" height="30" alt="linktree logo"  />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/rohitk_06" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="30" alt="twitter logo"  />
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
   </a>
 </div>
 
