@@ -21,8 +21,8 @@
   <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
