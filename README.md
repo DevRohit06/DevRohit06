@@ -99,6 +99,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS: A Beginner&#39;s Guide to Streamlined Web Design](https://www.rohitk06.site/blog/tailwind-css-beginners-guide/)
+- [Discover the Power of Astro.js in Web Development](https://www.rohitk06.site/blog/about-astro/)
+- [Optimizing Web Images for Performance](https://www.rohitk06.site/blog/optimizing-web-images/)
+- [Web Development Tools and IDEs for Boosting Productivity](https://www.rohitk06.site/blog/web-development-tools-and-ide/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Currently Listening to
