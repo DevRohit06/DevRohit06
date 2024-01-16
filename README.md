@@ -33,6 +33,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12"  />
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
+   <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="ionic logo"  />
 </div>
 
 ###
