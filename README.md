@@ -70,7 +70,6 @@
 ###
 ### Connect with me  on
 <div align="left">
-  <img width="12"  />
   <a href="https://www.instagram.com/rohitk.06" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
   </a>
