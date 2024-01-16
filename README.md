@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Rohit Kushwaha</h1>
 
-<h3>A passionate frontend developer from India</h3>
+<h3>A passionate Full Stack developer from India</h3>
 
 
 ### Skills
