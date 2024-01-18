@@ -1,7 +1,4 @@
-
-<h1 align="left">Hi 👋, I'm Rohit Kushwaha</h1>
-
-<h3>A passionate Full Stack developer from India</h3>
+![Rohit Kushwaha](https://github.com/DevRohit06/DevRohit06/blob/main/Rohit-Kushwaha.png?raw=true)
 
 
 ### Skills
