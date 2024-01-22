@@ -1,4 +1,4 @@
-![Rohit Kushwaha](https://github.com/DevRohit06/DevRohit06/blob/main/Rohit-Kushwaha.png?raw=true)
+![Rohit Kushwaha](https://github.com/DevRohit06/DevRohit06/blob/main/Rohit-Kushwaha.svg?raw=true)
 
 
 ### Skills
