@@ -96,6 +96,10 @@
 
 ###
 
+[![](https://visitcount.itsvg.in/api?id=DevRohit06&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+
+###
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Tailwind CSS: A Beginner&#39;s Guide to Streamlined Web Design](https://www.rohitk06.site/blog/tailwind-css-beginners-guide/)
