@@ -69,32 +69,21 @@
 ###
 ### Connect with me  on
 <div align="left">
-  <a href="https://www.instagram.com/rohitk.06" target="_blank">
+  <a href="https://www.instagram.com/rohitk.06/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
   </a>
   <img width="12"  />
-  <a href="https://www.linkedin.com/in/rohit-kushwaha-339978209/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohitk06/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
   </a>
   <img width="12"  />
-  <a href="https://twitter.com/rohitk_06" target="_blank">
+  <a href="https://twitter.com/rohitk_06/" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devrohit06/devrohit06/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devrohit06/devrohit06/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/devrohit06/devrohit06/output/github-snake.svg" />
-</picture>
 
 ###
 
