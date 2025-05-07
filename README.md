@@ -93,10 +93,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS: A Beginner&#39;s Guide to Streamlined Web Design](https://www.rohitk06.site/blog/tailwind-css-beginners-guide/)
-- [Discover the Power of Astro.js in Web Development](https://www.rohitk06.site/blog/about-astro/)
-- [Optimizing Web Images for Performance](https://www.rohitk06.site/blog/optimizing-web-images/)
-- [Web Development Tools and IDEs for Boosting Productivity](https://www.rohitk06.site/blog/web-development-tools-and-ide/)
+- [Technology Trends to Watch in 2025](https://rohitk06.dev/blogs/technology-trends-2025/)
+- [AI-Driven Web Development: The New Frontier in 2025](https://rohitk06.dev/blogs/ai-driven-web-development/)
+- [Claude AI: The Evolution of Frontier Intelligence in 2025](https://rohitk06.dev/blogs/claude-ai-frontier-intelligence/)
+- [Progressive Web Apps in 2025: The Ultimate Guide to PWA Development](https://rohitk06.dev/blogs/progressive-web-apps-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=zcqs1v7pjdvrovtew0rqklkz8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]((https://spotify-github-profile.vercel.app/api/view?uid=zcqs1v7pjdvrovtew0rqklkz8&redirect=true))
