@@ -93,10 +93,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SuperDocs: Building the Open-Source Mintlify Alternative](https://rohitk06.in/blogs/superdocs-open-source-documentation/)
 - [Integrating E2B and Daytona: Cloud Sandboxes for Next-Gen AI Development](https://rohitk06.in/blogs/e2b-daytona-integration/)
 - [Vibe Engineering &amp; Vibecoding: The Future of Coding with AI vs Traditional Methods](https://rohitk06.in/blogs/vibe-engineering-vs-traditional-coding/)
 - [Technology Trends to Watch in 2025](https://rohitk06.in/blogs/technology-trends-2025/)
-- [AI-Driven Web Development: The New Frontier in 2025](https://rohitk06.in/blogs/ai-driven-web-development/)
 <!-- BLOG-POST-LIST:END -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=zcqs1v7pjdvrovtew0rqklkz8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]((https://spotify-github-profile.vercel.app/api/view?uid=zcqs1v7pjdvrovtew0rqklkz8&redirect=true))
 ###
