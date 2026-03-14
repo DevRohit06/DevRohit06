@@ -25,7 +25,8 @@ Full-stack developer who loves building developer tools and open-source projects
 
 ## Tools I Use
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,bash,cloudflare,postman,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,bash,cloudflare,postman,linux&theme=dark" />&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/43993af930ecf53051df2cb1bb7a556219833a10/icons/Claude.svg" height="48" alt="Claude" />
 
 ## Blog Posts
 
