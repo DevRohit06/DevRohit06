@@ -4,20 +4,6 @@
 
 Full-stack developer who loves building developer tools and open-source projects. Lately been experimenting a lot with AI and building tools that make developers' lives a little easier.
 
-## Projects
-
-<a href="https://github.com/pocketpaw/pocketpaw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pocketpaw&repo=pocketpaw&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/Lito-docs/cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lito-docs&repo=cli&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/DevRohit06/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevRohit06&repo=portfolio&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/DevRohit06/discli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevRohit06&repo=discli&theme=github_dark&hide_border=true" />
-</a>
 
 ## Tech Stack
 
