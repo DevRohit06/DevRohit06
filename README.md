@@ -1,102 +1,53 @@
 ![Rohit Kushwaha](https://github.com/DevRohit06/DevRohit06/blob/main/banner.png?raw=true)
 
+## Hey, I'm Rohit 👋
 
-### Skills
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="nodejs logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="astro logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="nextjs logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12"  />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
-   <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="ionic logo"  />
-</div>
+Full-stack developer who loves building developer tools and open-source projects. Lately been experimenting a lot with AI and building tools that make developers' lives a little easier.
 
-###
-### Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12"  />
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
-</div>
+## Projects
 
-###
-### Connect with me  on
-<div align="left">
-  <a href="https://www.instagram.com/rohitk.06/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
-  </a>
-  <img width="12"  />
-  <a href="https://www.linkedin.com/in/rohitk06/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
-  </a>
-  <img width="12"  />
-  <a href="https://twitter.com/rohitk_06/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
-  </a>
-</div>
+<a href="https://github.com/pocketpaw/pocketpaw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pocketpaw&repo=pocketpaw&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/Lito-docs/cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lito-docs&repo=cli&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/DevRohit06/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevRohit06&repo=portfolio&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/DevRohit06/discli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevRohit06&repo=discli&theme=github_dark&hide_border=true" />
+</a>
 
-###
+## Tech Stack
 
+<img src="https://skillicons.dev/icons?i=js,nodejs,py,react,nextjs,astro,svelte,express,flutter,tailwind,mongodb,firebase,docker,aws&theme=dark" />
 
-###
+## Tools I Use
 
-[![](https://visitcount.itsvg.in/api?id=DevRohit06&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,bash,cloudflare,postman,linux&theme=dark" />
 
-###
+## Blog Posts
 
-### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Announcing Lito: Documentation That Developers Actually Love](https://rohitk06.in/blogs/announcing-lito-documentation-generator/)
 - [PocketPaw: The Self-Hosted AI Agent That Doesn&#39;t Cut Corners on Security](https://rohitk06.in/blogs/pocketpaw-self-hosted-ai-agent/)
 - [SuperDocs: Building the Open-Source Mintlify Alternative](https://rohitk06.in/blogs/superdocs-open-source-documentation/)
 - [Integrating E2B and Daytona: Cloud Sandboxes for Next-Gen AI Development](https://rohitk06.in/blogs/e2b-daytona-integration/)
 <!-- BLOG-POST-LIST:END -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=zcqs1v7pjdvrovtew0rqklkz8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]((https://spotify-github-profile.vercel.app/api/view?uid=zcqs1v7pjdvrovtew0rqklkz8&redirect=true))
-###
+
+## Let's Connect
+
+<a href="https://www.instagram.com/rohitk.06/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="30" alt="instagram" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/rohitk06/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="30" alt="linkedin" />
+</a>&nbsp;
+<a href="https://twitter.com/rohitk_06/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="30" alt="twitter" />
+</a>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=DevRohit06&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
