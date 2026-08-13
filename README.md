@@ -17,10 +17,10 @@ Full-stack developer who loves building developer tools and open-source projects
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing astryx-svelte: Meta&#39;s Design System, Now for Svelte](https://rohitk06.in/blogs/announcing-astryx-svelte/)
 - [discli: A Discord CLI Built for AI Agents &lpar;and Humans Too&rpar;](https://rohitk06.in/blogs/discli-discord-cli-for-ai-agents/)
 - [Announcing Lito: Documentation That Developers Actually Love](https://rohitk06.in/blogs/announcing-lito-documentation-generator/)
 - [PocketPaw: The Self-Hosted AI Agent That Doesn&#39;t Cut Corners on Security](https://rohitk06.in/blogs/pocketpaw-self-hosted-ai-agent/)
-- [SuperDocs: Building the Open-Source Mintlify Alternative](https://rohitk06.in/blogs/superdocs-open-source-documentation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's Connect
