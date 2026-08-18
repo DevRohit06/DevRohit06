@@ -1,15 +1,20 @@
 name: Latest blog post workflow
-on: 
+on:
     schedule:
         - cron: '0 * * * *'
     workflow_dispatch:
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
+jobs:
+    update-readme-with-blog:
+        name: Update the blog screen with latest posts
         runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
             - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
+              with:
+                # The profile is a navigable terminal: README.md is the boot
+                # screen, so the post list lives on the `tail -f blog` screen.
+                readme_path: "cmd/blog.md"
                 max_post_count: "4"
                 feed_list: "https://www.rohitk06.in/rss.xml"

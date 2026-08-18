@@ -1,40 +1,31 @@
-![Rohit Kushwaha](https://github.com/DevRohit06/DevRohit06/blob/main/banner.png?raw=true)
+<img src="https://github.com/DevRohit06/DevRohit06/raw/main/banner.png" alt="Rohit Kushwaha" width="100%">
 
-## Hey, I'm Rohit 👋
+```console
+rohit@github:~$ neofetch
 
-Full-stack developer who loves building developer tools and open-source projects. Lately been experimenting a lot with AI and building tools that make developers' lives a little easier.
+  ██ ██ ██ ██ ██    rohit@github
+  ██ ██ ██ ██ ██    ──────────────────────────────────────────
+  ██ ██ ██ ██ ██    host        qbtrix · india
+   ██ ██ ██ ██ █    uptime      6 years, 2 months
+   ██ ██ ██ ██ █    kernel      typescript · python
+   ██ ██ ██ ██ █    repos       59 public · 12 packages published
+  ██ ██ ██ ██ ██    installs    5,707 / month
+  ██ ██ ██ ██ ██    commits     3,891
+  ██ ██ ██ ██ ██    merged      421 PRs · 294 into pocketpaw
 
+rohit@github:~$ help
+```
 
-## Tech Stack
+<p>
+<a href="https://github.com/DevRohit06/DevRohit06/blob/main/cmd/projects.md"><code>ls projects/</code></a> &nbsp;—&nbsp; twelve packages, six worth talking about<br>
+<a href="https://github.com/DevRohit06/DevRohit06/blob/main/cmd/man.md"><code>man rohit</code></a> &nbsp;—&nbsp; the long version, as a man page<br>
+<a href="https://github.com/DevRohit06/DevRohit06/blob/main/cmd/now.md"><code>cat /proc/now</code></a> &nbsp;—&nbsp; what's actually running right now<br>
+<a href="https://github.com/DevRohit06/DevRohit06/blob/main/cmd/3d.md"><code>render bars.stl</code></a> &nbsp;—&nbsp; a 3D object you can rotate, inside a README<br>
+<a href="https://github.com/DevRohit06/DevRohit06/blob/main/cmd/blog.md"><code>tail -f blog</code></a> &nbsp;—&nbsp; latest posts, updated hourly by a robot<br>
+<a href="https://github.com/DevRohit06/DevRohit06/blob/main/cmd/connect.md"><code>./connect.sh</code></a> &nbsp;—&nbsp; where to find me<br>
+<a href="https://github.com/DevRohit06/DevRohit06/blob/main/cmd/help.md"><code>help</code></a> &nbsp;—&nbsp; every command
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,py,react,nextjs,astro,svelte,express,flutter,tailwind,mongodb,firebase,docker,aws&theme=dark" />
-
-## Tools I Use
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,bash,cloudflare,postman,linux&theme=dark" />&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/43993af930ecf53051df2cb1bb7a556219833a10/icons/Claude.svg" height="48" alt="Claude" />
-
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Announcing astryx-svelte: Meta&#39;s Design System, Now for Svelte](https://rohitk06.in/blogs/announcing-astryx-svelte/)
-- [discli: A Discord CLI Built for AI Agents &lpar;and Humans Too&rpar;](https://rohitk06.in/blogs/discli-discord-cli-for-ai-agents/)
-- [Announcing Lito: Documentation That Developers Actually Love](https://rohitk06.in/blogs/announcing-lito-documentation-generator/)
-- [PocketPaw: The Self-Hosted AI Agent That Doesn&#39;t Cut Corners on Security](https://rohitk06.in/blogs/pocketpaw-self-hosted-ai-agent/)
-<!-- BLOG-POST-LIST:END -->
-
-## Let's Connect
-
-<a href="https://www.instagram.com/rohitk.06/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="30" alt="instagram" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/rohitk06/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="30" alt="linkedin" />
-</a>&nbsp;
-<a href="https://twitter.com/rohitk_06/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="30" alt="twitter" />
-</a>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=DevRohit06&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+<sub>Every command above is a link and every screen is a markdown file. No
+JavaScript, no Action, no service that can go down — the whole thing is a state
+machine made of hyperlinks, which is the only interactivity GitHub allows.</sub>
